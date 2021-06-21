@@ -1,0 +1,174 @@
+body{
+  width: auto;
+}
+.header{
+    background: radial-gradient(#fff,#ff8e7a);
+}
+.logo{
+
+  width: 175px;
+  margin-left: 40px;
+  padding-top: 10px;
+
+}
+.navbar{
+  padding-top:  25px;
+  margin-bottom: 20px;
+
+}
+.navbar-nav{
+  margin-left: 360px;
+}
+.nav-item{
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 1.15rem;
+  font-family: 'Poppins', sans-serif!important;
+  font-weight:normal;
+
+}
+.body-text{
+  margin-top: 16%;
+}
+
+.container{
+  /* padding-top: 5%; */
+  font-family: 'Poppins', sans-serif!important;
+  height: 100%;
+
+}
+h1{
+  padding-bottom: 10px !important;
+  font-weight: bold!important;
+  font-size: 3rem;
+}
+.btn{
+  border-radius: 3rem !important;
+  display: inline-block !important;
+  background: #ff523b;
+  color: #fff;
+  margin: 30px 0px;
+  padding: 8px 30px!important;
+  transition: background 0.5s;
+
+}
+.btn:hover{
+  background: #563434;
+
+}
+.small-container{
+  padding: 7% 7% 0 7%;
+}
+.title{
+  text-align: center;
+  font-size: 1.7rem;
+  padding: 3%;
+  line-height: 60px;
+  color: #555;
+}
+h5{
+  color: #555!important;
+  font-weight: normal!important;
+  font-size: 1rem!important;
+  margin-top: 10px!important;
+}
+.col-lg-3 p{
+  font-size: 14px !important;
+}
+.col-lg-3{
+  transition: transform 0.5s;
+}
+.ratings{
+  color: #ff523b;
+}
+.col-lg-3:hover{
+  transform: translateY(-5px);
+}
+.offer{
+    background: radial-gradient(#fff,#ff8e7a);
+    margin-top: 80px;
+}
+.col-lg-6 img{
+
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+.col-lg-6 p{
+  padding-top: 10%;
+}
+small{
+  color: #555;
+}
+.fa {
+  color:#ff523b
+}
+.testimonials{
+  padding-top: 20px;
+  text-align: center;
+  transition: 0.5s;
+}
+.testimonials p{
+  height: 100px;
+}
+.testimonials img
+{
+  width: 50px;
+  margin-top: 20px;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+.testimonials:hover{
+   box-shadow: 0 0px 20px 0px  rgba(0,0,0,0.1) ;
+   transform: translateY(-10px);
+}
+.testimonials h3{
+  color: #555;
+ font-size: 20px;
+}
+.col-lg-2{
+
+
+
+}
+.col-lg-2 img{
+  width: 100%;
+  filter: grayscale(100%);
+
+}
+.col-lg-2 img:hover{
+  filter: grayscale(0%);
+}
+.footer {
+  background-color: black;
+  margin-top: 3%;
+  margin-bottom: 0!important;
+}
+.footer h4{
+  color: white;
+  font-size:1.3rem;
+  font-weight: 600;
+ text-align: center;
+ padding-left: 25px;
+}
+
+.footer p{
+  color: white;
+padding-top: 1%;
+text-align: center;
+}
+.footer ul{
+  color: white;
+  list-style-type: none;
+  text-align: center;
+  padding-top: 2%;
+}
+.logo-white{
+  width: 55%;
+  margin-left: 80px;
+}
+.copyright{
+  background-color: black;
+  text-align: center;
+
+
+}
